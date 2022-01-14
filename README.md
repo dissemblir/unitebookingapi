@@ -36,6 +36,6 @@ This is just a very simple and minimal API to emulate the [Service Booking](http
 
 ## Example Output
 
-![Output]()
+![Output](https://raw.githubusercontent.com/dissemblir/dissemblir/main/resources/img/uniteapiexmaple.png)
 
 ###### This is purely for educational purposes.
