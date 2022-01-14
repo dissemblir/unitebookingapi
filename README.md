@@ -12,7 +12,6 @@ This is just a very simple and minimal API to emulate the [Service Booking](http
 <details><summary>/booking return values</summary>
 <p>
 
-    ```
         Success - Submit
         Error - Submit
         Error - Empty Submit
@@ -21,9 +20,22 @@ This is just a very simple and minimal API to emulate the [Service Booking](http
         Error - uKids Fully Booked
         Error - Booking Exist
         Error - Insert
-    ```
 
 </p>
 </details>
+
+## Installation
+
+- Download the source code.
+- Execute the `npm install` command inside the folder where `index.js` is located.
+
+## Usage
+
+- Once all the packages are installed run `node index`
+- Open http://localhost:180 in your browser to see the result.
+
+## Example Output
+
+![Output]()
 
 ###### This is purely for educational purposes.
